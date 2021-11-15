@@ -6,5 +6,5 @@
 
 
 ## About this Project
-An Gif App project flutter.
+A Gif App project flutter.
 
